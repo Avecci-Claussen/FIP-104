@@ -12,7 +12,7 @@
   Activation: Coordinated staking portal, documentation, and client update
 ```
 
-## Review Note (for core / Lorenzo)
+## Review Note
 
 1. **Init-only 50 FB** — Keep the official 50 FB minimum for first-time stake binding per `(payout_address, indexer_id)`; do not lower the cold-start gate in this FIP.
 2. **Top-Up path** — After a binding exists, official interfaces must support funding the stake address below 50 FB (balance-weighted accounting already used by FIP-101 / `stake-indexer`).
