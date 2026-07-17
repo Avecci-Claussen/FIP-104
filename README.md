@@ -3,7 +3,7 @@
 ```
   FIP: 104
   Title: Init-Only Minimum Stake and Incremental Top-Ups for Index Mining
-  Author: PrimeTriad (@MrShiddy), Fractal Community Contributors
+  Author: TheLonelyBit (@MrShiddy @fractal_tlb) on X, Fractal Community Contributors
   Status: Draft
   Type: Standard Proposal (Staking Policy & Implementation)
   Created: 2026-07-17
